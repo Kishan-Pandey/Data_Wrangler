@@ -2,6 +2,10 @@
 # Overview
 This repository contains code for cleaning and visualizing a dataset. The script includes functions to preprocess the data by handling missing values, dropping unnecessary columns, and transforming specific columns. Additionally, it generates histograms for all columns in the cleaned dataset.
 
+# Link to the dataset
+As the file size is big, pasting link of the dataset that is used for this repository
+https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
+
 # Contents
 clean_data.py: Script for cleaning the dataset.
 visualization.py: Script for generating histograms for all columns in the cleaned dataset.
